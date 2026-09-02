@@ -1,0 +1,25 @@
+# CégemOne Súgó
+
+> Kérdés példa: „CégemOne – hogyan …?”
+> Havidíjas / havi díjas munka = **Folyamatos teljesítés** projekt (nem külön CRM modul).
+> Pénzügyi terv / tényadatok = **Pénzügyi tervező** bővítés (1 990 Ft/hó / cég). Deviza: EUR/USD + **MNB árfolyam** betöltés.
+> Sablon / másolás = **Minta alapján létrehozás** új ajánlatkérésnél vagy projektnél.
+
+- [Súgó főoldal](https://help.cegemone.hu/)
+- [Áttekintés – mit tud a rendszer](https://help.cegemone.hu/01-attekintes/)
+- [Levelek – e-mail figyelés](https://help.cegemone.hu/04h-levelek-kommunikacio/)
+- [Pénzügyi tervező](https://help.cegemone.hu/04i-penzugyi-tervezo/)
+- [Központi dokumentumtár](https://help.cegemone.hu/04e-naptár-felhasználók-dokumentumok/#4-központi-dokumentumtár-iroda--dokumentumok)
+- [Mag receptek – részletes lépések](https://help.cegemone.hu/06-mag-receptek/)
+- [Havidíjas / folyamatos projekt](https://help.cegemone.hu/06-mag-receptek/12-havidijas-folyamatos-projekt/)
+- [Levelek – válasz figyelés](https://help.cegemone.hu/06-mag-receptek/13-levelek-valasz-figyeles/)
+- [Pénzügyi terv és tényadatok](https://help.cegemone.hu/06-mag-receptek/14-penzugyi-terv-tenyadatok/)
+- [Sablon és másolás – ajánlatkérés, projekt](https://help.cegemone.hu/06-mag-receptek/15-sablon-masolas/)
+- [Céglogó feltöltése](https://help.cegemone.hu/06-mag-receptek/05-ceglogo-feltoltese/)
+- [Árajánlat anyag + munkadíj](https://help.cegemone.hu/06-mag-receptek/03-arajanlat-anyag-munkadij/)
+- [AI gyors ajánlatkérés](https://help.cegemone.hu/06-mag-receptek/02-ai-gyors-ajanlatkeres/)
+- [UI szótár – menü és feliratok](https://help.cegemone.hu/ai/glossary/)
+- [Teljes URL index](https://help.cegemone.hu/llms-full.txt)
+- [Szakmai útmutatók](https://help.cegemone.hu/05-szakmak/)
+
+Sitemap: https://help.cegemone.hu/sitemap.xml
