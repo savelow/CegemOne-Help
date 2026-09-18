@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+
+# Biztonsági audit (2026-08-28): ezek az útvonalak korábban véletlenül a
+# publikus build részei voltak (fejlesztői session-logok, generátor-
+# szkriptek, screenshot-mappa) — mostantól nem generálódnak, de a Disallow
+# itt marad extra védelemként egy esetleges jövőbeli regresszió ellen.
+Disallow: /session-logs/
+Disallow: /screenshots/
+Disallow: /scripts/
+
+Sitemap: https://help.cegemone.hu/sitemap.xml
+
+# LLM / AI crawler összefoglaló (llms.txt konvenció)
+# https://help.cegemone.hu/llms.txt
+# https://help.cegemone.hu/llms-full.txt
